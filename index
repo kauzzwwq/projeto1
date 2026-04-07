@@ -105,7 +105,6 @@ h2 {
     border-radius: 20px;
 }
 
-/* cor específica JS */
 .js {
     background: #f7df1e;
 }
@@ -170,7 +169,7 @@ footer {
 <section id="identifica">
     <h2>Identificação</h2>
     <div class="imagem">
-        <img src="img/eu.png">
+        <img src="https://raw.githubusercontent.com/kauzzwwq/projeto1/main/eu.png" alt="Minha foto">
     </div>
     <hr>
     <div class="info">
@@ -203,7 +202,6 @@ footer {
     <p>Python</p>
     <div class="barra"><div class="progresso" style="width: 70%"></div></div>
 
-    <!-- NOVO: JavaScript -->
     <p>JavaScript</p>
     <div class="barra">
         <div class="progresso js" style="width: 40%"></div>
